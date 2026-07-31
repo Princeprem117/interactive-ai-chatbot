@@ -120,6 +120,6 @@ Goodbye!
 
 ---
 
-## 👨‍💻 Developer
+## 👨‍💻:
 
 Prince Prem
